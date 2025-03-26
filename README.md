@@ -33,10 +33,9 @@ Here are a few projects I've been working on:
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Ahsan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamahsanirfan&show_icons=true&theme=radical)
 
-<!-- Optionally, include languages used stats -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamahsanirfan&layout=compact)
 
 ## Connect with Me
 
