@@ -40,7 +40,7 @@ Here are a few projects I've been working on:
 
 ## Connect with Me
 
-- [LinkedIn] https://www.linkedin.com/in/iamahsanirfan/
+- LinkedIn https://www.linkedin.com/in/iamahsanirfan/
 
 ---
 
