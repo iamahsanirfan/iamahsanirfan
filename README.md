@@ -1,6 +1,6 @@
 # Hi there, I'm Ahsan Paracha 👋
 
-![Profile Views](https://gpvc.arturio.dev/yourusername)
+![Profile Views](https://gpvc.arturio.dev/iamahsanirfan)
 
 ## About Me
 
